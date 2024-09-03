@@ -44,7 +44,7 @@ This configuration will:
 To start all the services defined in the `docker-compose.yaml` file in detached mode, use the following command:
 
 ```bash
-docker-compose up --build -d
+docker compose up --build -d
 ```
 
 This command will:
