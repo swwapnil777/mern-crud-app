@@ -20,7 +20,7 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern_stack_crud.git
+git clone https://github.com/swwapnil777/mern-crud-app.git
 cd mern_stack_crud
 ```
 
