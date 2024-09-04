@@ -66,7 +66,7 @@ Once the containers are up and running, you can access the application component
 To stop and remove the running containers, networks, and volumes, run:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 This command will clean up all the resources created by Docker Compose.
